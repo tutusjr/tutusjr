@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **my Portfolio WebSite**
  
- 🌱 I’m currently learning **Node.js & Java**
+ 🌱 I’m currently learning **Node.js & Java &PostgreSQL**
 
 💬 Ask me about **JavaScript, React, Next.js ... or anything [here](https://github.com/tutusjr/tutusjr/issues)**
 
