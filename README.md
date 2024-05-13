@@ -19,7 +19,7 @@ I love playing 🎹 **Piano** and  playing 🎮 **Games**
  </div>
 
  <div align="center"> 
-  <a href="mailto:pedro.sales.tutusfullstack@gmail.com">
+  <a href="mailto:tutusfullstack@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mustafa-tutus-24b81321a/" target="_blank">
