@@ -38,7 +38,7 @@ I love playing 🎹 **Piano** and  playing 🎮 **Games**
 
 <br/>
 <hr/>
-`
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
