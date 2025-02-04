@@ -33,9 +33,8 @@ I love playing 🎹 **Piano** and  playing 🎮 **Games**
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,nextjs,mongodb,postman,docker,postgres" /><br>
 </div>
-
 <br/>
 <hr/>
 
